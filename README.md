@@ -14,6 +14,6 @@
     - HTTP Proxy: localhost
     - Port: 8887
 
-## Restful Booker API Documentation
+## Site link
 - http://34.233.146.202/
 
