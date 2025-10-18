@@ -2,7 +2,7 @@
 
 ## About this Project
 
-<p> In this project, I have recorded traffic of an Online News Portal with JMeter and Fiddle.</p>
+<p> In this project, I have recorded traffic of an Online News Portal with JMeter and Fiddler.</p>
 
 ## Tools & Technologies
 - JMeter
